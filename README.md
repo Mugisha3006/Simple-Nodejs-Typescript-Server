@@ -6,6 +6,9 @@
 - Typescript
 - Nodemon middleware
 
+## git clone the repository
+= git clone https://github.com/Mugisha3006/Simple-Nodejs-Typescript-Server
+
 ### Run the TypeScript server using ts-node (useful for development).
  - npm run dev
 
